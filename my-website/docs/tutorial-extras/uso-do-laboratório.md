@@ -13,4 +13,6 @@ Por isso, a fim de evitar tal dano, o website didático proposto neste trabalho 
 - Cabelo: os discentes que utilizam o laboratório e possuem cabelo longo devem amarrá-los para evitar que o cabelo prenda no rotor, que por sua vez é rotativo.
 
 
-- Acessórios: os discentes que utilizam o laboratório devem retirar os acessórios como: anéis, brincos, colares e pulseiras, para evitar risco de choques elétricos
+- Acessórios: os discentes que utilizam o laboratório devem retirar os acessórios como: anéis, brincos, colares e pulseiras, para evitar risco de choques elétricos.
+
+- Vestimentas: Os dicentes que utilizão o laboratório devem utilizar calça comprida, calçado fechado e usar manga curta, para evitar risco de choques elétricos e danos em máquinas rotatívas.
