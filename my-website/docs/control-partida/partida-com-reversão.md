@@ -31,5 +31,5 @@ O acionamento de força desse comando ocorre com o acionamento do contato de for
 ## Vídeo para o acionamento:
 
 <video controls>
-  <source src="/revers.video.mp4"/>
+  <source src={require('./revers.video.mp4').default} />
 </video>

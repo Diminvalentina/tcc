@@ -35,5 +35,5 @@ Logo após o comando da partida direta, necessita-se a programação do comando 
 ## Vídeo para o acionamento:
 
 <video controls>
-  <source src="/estre.video.mp4"/>
+  <source src={require('./estre.video.mp4').default} />
 </video>

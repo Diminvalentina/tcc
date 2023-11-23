@@ -19,5 +19,5 @@ Todos os acionamentos feitos em laboratório necessitam do contator, pois permit
 ## Vídeo para o acionamento:
 
 <video controls>
-  <source src="/intertravamento.video.mp4"/>
+  <source src={require('./intertravamento.video.mp4').default} />
 </video>
