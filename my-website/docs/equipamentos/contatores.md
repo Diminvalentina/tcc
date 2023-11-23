@@ -6,6 +6,15 @@ sidebar_position: 2
 
 Contatores são dispositivos utilizados para acionar equipamentos que operam com tensões mais elevadas, como os motores trifásicos em aplicações industriais e residenciais. Seu fechamento é realizado por meio da ativação eletromagnética de sua bobina quando uma corrente é aplicada, e sua abertura ocorre com a atuação de uma mola quando não há corrente na bobina.
 
+## Contator do laboratório:
+
+![Contator](./contator.jpg)
+
+## Contator gráfico:
+
+![Contator gráfico](./contator.grafic.png)
+
+
 ## Funcionamento. 
 
 Quando o botão S (botoeira) é acionado, fechando o contato, a bobina cria um campo eletromagnético que atrai o componente metálico da esquerda para a direita. Isso resulta no fechamento do contato NA e na abertura do contato NF. Quando o botão é desligado, a mola age como atuador, retornando os contatos à sua posição inicial

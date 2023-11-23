@@ -4,45 +4,12 @@ sidebar_position: 1
 
 # Introdução
 
-Assim como cada elemento em um circuito de comando elétrico tem o seu símbolo gráfico específico, também, a numeração dos contatos e a sua representação literal, tem um padrão a ser seguido, de acordo com as normas NBR 5280 ou a IEC 113.2.
+No curso Técnico em Eletromecânica do Instituto Federal do Paraná (IFPR), Câmpus Assis Chateaubriand, primeiro, são ensinados os conceitos básicos em sala e, depois, os ensinamentos são repassados e aprofundados por meio de aulas práticas a fim de criar uma maior inserção dos estudantes no mundo do trabalho. Além de auxiliar no ensino de “Máquinas e Acionamentos” visando amparar todas as diferentes formas de acionamento dos equipamentos. 
 
-## Representação dos terminais de força.
 
-- Os terminais 1, 3 e 5 = Circuito de entrada (linha).
-- Os terminais 2, 4 e 6 = Circuito de saída (terminal).
+A execução dessas ferramentas é feita por meio de fechamentos e aberturas de contatos; quando acionados com determinado equipamento e em uma ordem correta, os motores são ligados conforme a necessidade do programador. Nesse processo são utilizados contatores e botoeiras para ativá-los ou desativá-los, e temporizadores, LEDs e sensores como auxílio aos outros aparelhos para ampliar as formas de acionamento. 
+O fechamento equivocado dos equipamentos pode causar alguns problemas nos motores, no equipamento de acionamento e na proteção, necessitando de reparo. Além disso, pode acontecer o superdimensionamento decorrente do uso desnecessário de aparelhos e acidentes pelo mau uso do laboratório e/ou de vestimenta, como roupas curtas, anéis, pulseiras, colares e cabelo solto. 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### Representação gráfica.
+Por meio de um website é possível ampliar o aprendizado dos discentes e, por consequência, diminuir os acontecimentos supracitados, criando um ambiente web que atenda às necessidades do usuário. Sendo assim, neste trabalho, almejou-se criar um website para auxiliar os discentes no acionamento de motores elétricos, além de conscientizá-los sobre as Normas Regulamentadoras (NRs) 10 e 12, com o intuito de auxiliar no ensino do componente curricular “Máquinas e Acionamentos”, contemplando as diferentes formas de acionamento dos equipamentos.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.

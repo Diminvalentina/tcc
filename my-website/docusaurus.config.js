@@ -114,17 +114,21 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Contato',
             items: [
               
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'vonmecheln',
+                href: 'https://github.com/vonmecheln',
+              },
+              {
+                label: 'diminvalentina',
+                href: 'https://github.com/vonmecheln',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()}Copyright © 2023 Von Mechlen e Jemerson Dela Valentina. Desenvolvido com Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
