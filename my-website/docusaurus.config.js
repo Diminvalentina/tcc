@@ -32,6 +32,15 @@ const config = {
     path: 'i18n',
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        custom_edit_url: null
+      }
+    ]
+  ],
+
   presets: [
     [
       'classic',
